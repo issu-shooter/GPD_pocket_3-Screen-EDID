@@ -1,0 +1,2 @@
+To permanently set parameter for the device, we need to know the exact EDID of the internal monitor.
+After getting the monitor EDID, follow https://wiki.archlinux.org/title/Kernel_mode_setting#Forcing_modes_and_EDID to set it right.
