@@ -1,0 +1,9 @@
+After using a tool called Edgeless (home.edgeless.top), I successfully and painlessly booted into a useful windows PE live environment.
+At there, I used a tool called Monitor Asset Manager, made by En Tech company, to read the EDID raw data.
+
+Pictures are available in the repo, see rad data below.
+
+00,FF,FF,FF,FF,FF,FF,00,36,7F,00,00,00,00,00,00,00,1F,
+10,48,4F,00,00,00,01,01,01,01,01,01,01,01,01,01,01,01,
+91,04,6C,AC,00,00,00,1A,00,00,00,FC,00,54,56,30,38,30,
+3C,76,77,10,01,00,00,00,00,00,00,00,00,00,00,10,00,00,
